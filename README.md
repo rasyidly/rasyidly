@@ -62,7 +62,7 @@ If you want to keep in touch with me, please drop an email to rasyid@sekeco.id, 
 Projects that are currently active and still working on:
 
 - Actively building multi-tenancy car rent and travel system with Laravel for [PalawaTour](https://palawatour.com) at Mar 2024 until now.
-- Build and develop Smart Pesantren Web Apps (built with Laravel 9.x) for [Afaada.id](https://afaada.id) from July 2022 until now.
+- Build and develop Smart Pesantren Web Apps (built with Laravel 9.x) for [Afaada.id](https://sma.afaada.id/psb) from July 2022 until now.
 - Co-Founder at [Takjeel Indonesia](https://www.instagram.com/takjeelindonesia/) from Apr 2021 until now.
 - Graphic Design at Coloria [ONG Spain](https://www.coloria.ong/) from Jun 2021 until now.
 - Chief Technology Officer at Sinau Space from Oct 2021 until now.

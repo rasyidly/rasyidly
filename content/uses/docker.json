@@ -1,0 +1,6 @@
+{
+  "name": "Docker",
+  "description": "Docker packages my also my clients applications in containers for consistent deployments across different environments, save my time and headaches.",
+  "url": "https://docker.com/",
+  "category": "software"
+}
