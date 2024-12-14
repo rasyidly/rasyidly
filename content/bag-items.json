@@ -1,0 +1,90 @@
+[
+	{
+		"name": "Apple Macbook Pro 13 (2021)",
+		"description": "The M1 version. 16GB RAM, 512GB SSD",
+		"url": "https://support.apple.com/kb/SP824?locale=en_US",
+		"category": "hardware"
+	},
+	{
+		"name": "Apple iPad Air 4th Generation",
+		"description": "iPad is so versatile, it’s more than up to any task. Whether you’re working on a project, expressing your creativity or playing an immersive game, iPad is a fun and powerful way to get it done. Here are just a few of the countless things you can do with iPad.",
+		"url": "https://support.apple.com/kb/SP828?locale=en_US",
+		"category": "hardware"
+	},
+	{
+		"name": "Apple iPhone 11",
+		"description": "I dont usually invest and upgrade my phone frequently, I used my last phone for 5 years, I will use this one for 5 years too.",
+		"url": "https://support.apple.com/en-us/111865",
+		"category": "hardware"
+	},
+	{
+		"name": "dbE Accoustics HBT80",
+		"description": "Wireless freedom and potentially superior sound quality over my current bluetooth speakers.",
+		"url": "https://www.dbe-id.com/",
+		"category": "hardware"
+	},
+	{
+		"name": "Logitech Z120s",
+		"description": "8 years strong! Z120s are reliable & good for everyday use. Upgrade only if I crave better sound.",
+		"url": "https://www.logitech.com/id-id/products/speakers/z120-compact-usb-speakers.html",
+		"category": "hardware"
+	},
+	{
+		"name": "LG 27MP400-B",
+		"description": "An extra display. IPS display with minimal bezels offers a clear, expansive view for multitasking between design and coding.",
+		"url": "https://www.lg.com/id/monitor/fhd-qhd/27mp400-b/",
+		"category": "hardware"
+	},
+	{
+		"name": "OpenAI gpt-4o",
+		"description": "GPT-4o is a chatbot that I use for everything from writing code to writing this website.",
+		"url": "https://chat.openai.com/",
+		"category": "software"
+	},
+	{
+		"name": "Adobe Family",
+		"description": "Adobe's like the ultimate creative toolbox. Photoshop edits pics, Illustrator makes killer designs, and InDesign puts it all together. Industry pros love them!",
+		"url": "https://adobe.com/",
+		"category": "software"
+	},
+	{
+		"name": "Docker",
+		"description": "Docker packages my also my clients applications in containers for consistent deployments across different environments, save my time and headaches.",
+		"url": "https://docker.com/",
+		"category": "software"
+	},
+	{
+		"name": "Figma",
+		"description": "Figma lets design teams brainstorm and edit interfaces together, like a Google Doc for designers.  Makes working on apps and websites a breeze.",
+		"url": "https://figma.com/",
+		"category": "software"
+	},
+	{
+		"name": "Google Workspace",
+		"description": "Google Workspace offers cloud-based tools like Gmail and Docs, letting me collaborate and work on projects anywhere, justifying the monthly cost.",
+		"url": "https://workspace.google.com/",
+		"category": "software"
+	},
+	{
+		"name": "Laravel Herd & Valet",
+		"description": "Laravel Herd & Valet simplify Laravel development by providing built-in testing tools and streamlining local server management, saving me time on setup.",
+		"url": "https://herd.laravel.com/",
+		"category": "software"
+	},
+	{
+		"name": "VS Code",
+		"description": "No brainer, my primary code editor. I use it for everything from writing code to writing this website.",
+		"url": "https://code.visualstudio.com/",
+		"category": "software"
+	},
+	{
+		"name": "Reclaimed Industrial Oak Desk",
+		"description": "No brainer, my primary code editor. I use it for everything from writing code to writing this website.",
+		"category": "desk"
+	},
+	{
+		"name": "Aquascape",
+		"description": "Transforming my desk into a mini zen garden with a calming aquascape, boosting focus and adding a touch of nature.",
+		"category": "desk"
+	}
+]

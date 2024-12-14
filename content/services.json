@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Backend Development",
+		"description": "Integrating data and APIs to build robust and scalable backend systems.",
+		"icon": "i-solar-server-line-duotone",
+		"skill": 4.9
+	},
+	{
+		"name": "Frontend Development",
+		"description": "Building dynamic and interactive web applications with modern frameworks.",
+		"icon": "i-solar-code-line-duotone",
+		"skill": 4.6
+	},
+	{
+		"name": "Web & Mobile App",
+		"description": "Transforming ideas into exceptional web and mobile app experiences.",
+		"icon": "i-solar-iphone-line-duotone",
+		"skill": 4.4
+	},
+	{
+		"name": "UI/UX Design",
+		"description": "Crafting visually stunning user interfaces that captivate and engage users.",
+		"icon": "i-solar-figma-line-duotone",
+		"skill": 4.9
+	}
+]

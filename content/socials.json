@@ -1,0 +1,22 @@
+[
+	{
+		"name": "GitHub",
+		"url": "https://github.com/rasyidly",
+		"icon": "i-ph-github-logo-duotone"
+	},
+	{
+		"name": "LinkedIn",
+		"url": "https://www.linkedin.com/in/rasyidly/",
+		"icon": "i-ph-linkedin-logo-duotone"
+	},
+	{
+		"name": "Dribbble",
+		"url": "https://dribbble.com/rasyidly",
+		"icon": "i-ph-dribbble-logo-duotone"
+	},
+	{
+		"name": "Telegram",
+		"url": "https://t.me/rasyidly",
+		"icon": "i-ph-telegram-logo-duotone"
+	}
+]
