@@ -16,7 +16,15 @@ jobs:
           node-version: "20"
       # Pick your own package manager and build script
       - run: npm install
-      - run: npx nuxt build --preset github_pages
+      - name: Building nuxt
+        run: npx nuxt build --preset github_pages
+        env: 
+          APP_TITLE: ${{ vars.APP_TITLE }}
+          APP_DESCRIPTION: ${{ vars.APP_DESCRIPTION }}
+          USER_AVATAR: ${{ vars.USER_AVATAR }}
+          USER_NAME: ${{ vars.USER_NAME }}
+          USER_FULL_NAME: ${{ vars.USER_FULL_NAME }}
+          USER_EMAIL: ${{ vars.USER_EMAIL }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
